@@ -1,4 +1,4 @@
-[<img width="1592" alt="Screen Shot 2022-02-08 at 3 15 16 PM" src="https://user-images.githubusercontent.com/90393796/153068894-9a0e5717-1de8-4994-adcf-e860893c4999.png">](https://ancs214.github.io/horiseon/)
+[<img width="1592" alt="Screen Shot 2022-02-08 at 3 15 16 PM" src="https://user-images.githubusercontent.com/90393796/153068894-9a0e5717-1de8-4994-adcf-e860893c4999.png">](https://ancs214.github.io/HoriSEOn-Marketeers/)
 
 
 # Horiseon
